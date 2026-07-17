@@ -1,1 +1,2 @@
-alert("this web might be malicious")
+// alert("this web might be malicious")
+console.log("hello from js ");
