@@ -30,8 +30,8 @@ h1{
 
 }
 .navbar a:hover{
-    background-color: aqua;
-    color: rgb(155, 240, 76);
+    background-color: rgb(168, 175, 175);
+    color: rgb(167, 252, 88);
 }
 
 .card img{
@@ -52,7 +52,7 @@ h1{
     padding-bottom: 20px;
 
     text-align: center;
-    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    box-shadow: rgba(240, 74, 74, 0.3) 0px 19px 38px, rgba(247, 80, 80, 0.22) 0px 15px 12px;
 }
 .card button{
     border-style: none;
